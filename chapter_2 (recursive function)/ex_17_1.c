@@ -1,11 +1,3 @@
-//
-//  ex_17(과제).c
-//  DS_study
-//
-//  Created by KimJunsik on 2020/04/23.
-//  Copyright © 2020 KimJunsik. All rights reserved.
-//
-
 #include <stdio.h>
 
 int bino(int n, int k)
