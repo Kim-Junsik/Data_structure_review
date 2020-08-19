@@ -9,3 +9,4 @@
 * chapter_5 큐(배열)
 * chapter_6 연결리스트
 * chapter_7 이중연결리스트, 스택(연결리스트), 배열(연결리스트)
+* chapter_8 트리
